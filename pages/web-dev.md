@@ -51,6 +51,7 @@ hideInToc: true
         margin: 10px auto;
         width:70%;
         height:70%;
+        opacity: 1 !important;
     }
 </style>
 

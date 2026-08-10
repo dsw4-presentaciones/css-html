@@ -23,6 +23,8 @@ hideInToc: true
 themeConfig:
   primary: '#5d8392'
 ---
+
+
 <br> <br>
 <div style="font-size: 30px;">
   HTML 5 & CSS3
@@ -65,6 +67,10 @@ src: ./pages/css.md
 ---
 # Selectores CSS
 src: ./pages/selectores.md
+---
+---
+# Box Model
+src: ./pages/modelo-caja.md
 ---
 ---
 # Referencias
