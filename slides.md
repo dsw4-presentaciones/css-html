@@ -1,9 +1,9 @@
 ---
 # You can also start simply with 'default'
 theme: seriph
-#background: /PORTADA.png
+#background: /PORTADA.jpeg
 layout: image
-image: /PORTADA.png
+image: /portada.jpeg
 backgroundSize: contain
 # some information about your slides (markdown enabled)
 title: HTML 5 & CSS3
@@ -21,7 +21,7 @@ mdc: true
 colorSchema: light
 hideInToc: true
 themeConfig:
-  primary: '#5d8392'
+  primary: '#005A9C'
 ---
 
 
@@ -30,9 +30,8 @@ themeConfig:
   HTML 5 & CSS3
 </div>
  <br>
-IF4101 Lenguajes para aplicaciones comerciales
+IF0009 Desarrollo de software IV
 <br>
-MSI. Álvaro Mena Monge
 
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
   Espaciadora para avanzar <carbon:arrow-right />
